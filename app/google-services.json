@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "1030176616448",
+    "firebase_url": "https://fir-practice-c5e2b.firebaseio.com",
+    "project_id": "fir-practice-c5e2b",
+    "storage_bucket": "fir-practice-c5e2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030176616448:android:9d170aff862dfff6dae8e5",
+        "android_client_info": {
+          "package_name": "com.umair.appupdater"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030176616448-e8b67h17ik5nt2o8p8nda5c3ifkeelil.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.umair.appupdater",
+            "certificate_hash": "e9034a95e7077151bda1a8ff39d18400c8cb19a2"
+          }
+        },
+        {
+          "client_id": "1030176616448-b3uk207jttargghgf19u5ambl2qbad3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVThneB_FGwaRyYhSaYqS6neBvdaCyvkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030176616448-b3uk207jttargghgf19u5ambl2qbad3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030176616448:android:c1f58c3d675c9738dae8e5",
+        "android_client_info": {
+          "package_name": "com.umair.firebasepractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030176616448-b3uk207jttargghgf19u5ambl2qbad3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVThneB_FGwaRyYhSaYqS6neBvdaCyvkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030176616448-b3uk207jttargghgf19u5ambl2qbad3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030176616448:android:21733a7697a4f861dae8e5",
+        "android_client_info": {
+          "package_name": "com.umair.newuirough"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030176616448-b3uk207jttargghgf19u5ambl2qbad3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVThneB_FGwaRyYhSaYqS6neBvdaCyvkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030176616448-b3uk207jttargghgf19u5ambl2qbad3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
